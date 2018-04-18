@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BatchJobApplication {
+public class BatchAdminApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(BatchJobApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(BatchAdminApplication.class, args);
+    }
 }
