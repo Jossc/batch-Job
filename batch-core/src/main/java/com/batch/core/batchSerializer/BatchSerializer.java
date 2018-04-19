@@ -1,6 +1,5 @@
 package com.batch.core.batchSerializer;
 
-import com.batch.core.BatchException.BatchRuntimeExecption;
 import com.caucho.hessian.io.HessianInput;
 import com.caucho.hessian.io.HessianOutput;
 import org.slf4j.Logger;
