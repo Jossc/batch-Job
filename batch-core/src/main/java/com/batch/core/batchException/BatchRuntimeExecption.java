@@ -1,9 +1,9 @@
-package com.batch.core.BatchException;
+package com.batch.core.batchException;
 
 import java.util.Random;
 
 /**
- * @PACKAGE_NAME: com.batch.core.BatchException
+ * @PACKAGE_NAME: com.batch.core.batchException
  * @PROJECT_NAME: batch-job
  * @Date: 2018/4/19
  * @author: Jossc
