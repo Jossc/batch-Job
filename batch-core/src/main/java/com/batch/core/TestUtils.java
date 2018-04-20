@@ -8,4 +8,5 @@ package com.batch.core;
  * 测试提交
  */
 public class TestUtils {
+
 }
