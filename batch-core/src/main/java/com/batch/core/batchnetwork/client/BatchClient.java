@@ -28,6 +28,7 @@ public class BatchClient {
      */
     public BatchRpcResponse sendMessage(BatchRpcRequest request){
         byte[] requestBytes = BatchSerializer.serialize(request);
+
         return null;
     }
 }
