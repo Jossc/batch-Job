@@ -45,7 +45,7 @@ public class TxResultResponse<T> implements Serializable {
         this.content = content;
     }
 
-    public TxResultResponse(){
+    public TxResultResponse(TxResultResponse<String> fail, String msg){
 
     }
 
